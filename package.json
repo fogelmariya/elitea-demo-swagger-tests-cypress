@@ -1,0 +1,24 @@
+{
+  "name": "elitea-demo-swagger-tests-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fogelmariya/elitea-demo-swagger-tests-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fogelmariya/elitea-demo-swagger-tests-cypress/issues"
+  },
+  "homepage": "https://github.com/fogelmariya/elitea-demo-swagger-tests-cypress#readme",
+  "devDependencies": {
+    "cypress": "^14.2.0"
+  }
+}
